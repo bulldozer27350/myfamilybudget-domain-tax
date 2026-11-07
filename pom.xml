@@ -6,7 +6,7 @@
 
     <groupId>com.moe.myfamilybudget</groupId>
     <artifactId>domain-tax</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>pom</packaging>
     <name>domain-tax</name>
     <description>Silo Fiscalité MyFamilyBudget (API et Core) - Dépôt autonome</description>
